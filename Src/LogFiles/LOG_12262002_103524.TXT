@@ -1,0 +1,8 @@
+12/26/2002:10:35:24AM:00000038.125:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12262002_103524.TXT)
+12/26/2002:10:35:27AM:00000038.127:DEBUG:MainForm:Form_QueryUnload Exiting
+12/26/2002:10:35:29AM:00000038.129:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/26/2002:10:35:29AM:00000038.129:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/26/2002:10:35:29AM:00000038.129:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/26/2002:10:35:29AM:00000038.129:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/26/2002:10:35:29AM:00000038.129:DEBUG:MainForm:UpdateMenus()
+12/26/2002:10:35:29AM:00000038.129:DEBUG:MainForm:UpdateMenus Exiting

@@ -1,0 +1,159 @@
+[Root]
+Most Recent Package=SDM for Windows v1.0x
+
+
+[Package|SDM for Windows v1.0x|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Dev\SDM9\Source\Package
+
+[Package|SDM for Windows v1.0x|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SDM for Windows v1.0x|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SDM for Windows v1.0x|Files Found]
+DefaultLens.Len=C:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len
+DefaultPrinter.pps=C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps
+
+[Package|SDM for Windows v1.0x|Files Released]
+
+[Package|SDM for Windows v1.0x|Missing Dependency Information]
+D:\Dev\SDM9\Source\wimadll.dll=
+C:\Dev\SDM9\Source\wimadll.dll=
+
+[Package|SDM for Windows v1.0x|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\richtx32.ocx=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|SDM for Windows v1.0x|Files Added]
+defaultlens.len=
+defaultprinter.pps.splits=
+defaultprinter.pps=
+
+[Package|SDM for Windows v1.0x|Files Removed]
+
+[Package|SDM for Windows v1.0x|Files In Project]
+C:\Program Files\Spread60\Bin\SPR32X60.ocx=Yes
+C:\Dev\SDM9\Source\SDM.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Dev\SDM9\Source\wimadll.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len=Yes
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps.Splits=Yes
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps=Yes
+
+[Package|SDM for Windows v1.0x|Configure Registry Files]
+Applicable=No
+
+[Package|SDM for Windows v1.0x|Configure Remote Servers]
+Applicable=No
+
+[Package|SDM for Windows v1.0x|Install Locations]
+D:\Dev\SDM9\Source\SDM.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Dev\SDM9\Source\wimadll.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\richtx32.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Infragistics\UltraSuite\IGToolBars50.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Spread60\Bin\SPR32X60.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MFC42.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\msmask32.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len=$(AppPath)
+D:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps.Splits=$(AppPath)
+D:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps=$(AppPath)
+C:\Dev\SDM9\Source\SDM.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Dev\SDM9\Source\wimadll.dll=$(AppPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len=$(AppPath)
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps.Splits=$(AppPath)
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps=$(AppPath)
+
+[Package|SDM for Windows v1.0x|Configure Shared Files]
+Applicable=Yes
+D:\Dev\SDM9\Source\SDM.exe=Yes
+D:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len=Yes
+D:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps.Splits=Yes
+D:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps=Yes
+C:\Dev\SDM9\Source\SDM.exe=No
+C:\Dev\SDM9\Source\wimadll.dll=No
+C:\Dev\SDM9\Source\LensDrawers\DefaultLens.Len=No
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps.Splits=No
+C:\Dev\SDM9\Source\PhotoPrinters\DefaultPrinter.pps=No
+
+[Package|SDM for Windows v1.0x|Distribution]
+Type=single
+Size=
+Title=SDM for Windows
+
+[Package|SDM for Windows v1.0x|IconGroups]
+Group0=SDM for Windows
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|SDM for Windows v1.0x|SDM for Windows]
+Icon1=SDM.exe
+Title1=SDM for Windows
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SDM for Windows v1.0x|Package]
+PackageFolder=c:\Dev\SDM9\Source\Package
+ProjectFolder=C:\Dev\SDM9\Source
+ServerSideCab=
+File1=c:\Dev\SDM9\Source\Package\setup.exe
+File2=c:\Dev\SDM9\Source\Package\Setup.Lst
+File3=c:\Dev\SDM9\Source\Package\SDM.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

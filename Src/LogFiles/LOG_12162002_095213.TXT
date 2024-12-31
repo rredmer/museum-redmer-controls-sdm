@@ -1,0 +1,2 @@
+12/16/2002:09:52:13AM:00000035.533:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12162002_095213.TXT)
+12/16/2002:09:53:50AM:00000035.630:ERROR:Error (91)(0) In Procedure (MainForm:EditMenu_Click) source (SDM) description (Object variable or With block variable not set).

@@ -1,0 +1,32 @@
+12/16/2002:10:23:52AM:00000037.432:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12162002_102352.TXT)
+12/16/2002:10:23:53AM:00000037.433:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 1
+12/16/2002:10:23:53AM:00000037.433:DEBUG:MainForm:Form_QueryUnload Exiting
+12/16/2002:10:23:53AM:00000037.433:DEBUG:EditForm:Form_QueryUnload(Cancel= 0,UnloadMode= 4
+12/16/2002:10:23:53AM:00000037.434:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:23:53AM:00000037.434:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:23:53AM:00000037.434:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:23:53AM:00000037.434:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:Form_Load()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:AddFileInfo()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:AddFileInfo Exiting
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:AddPackages()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:GetPackageLabels()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:GetPackageLabels Exiting
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:AddPackages Exiting
+12/16/2002:10:23:54AM:00000037.434:DEBUG:EditForm:AddFrames()
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:AddFrames Exiting
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:GetAlaCarteLabels()
+12/16/2002:10:23:54AM:00000037.435:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:23:54AM:00000037.435:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:GetAlaCarteLabels Exiting
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:Form_Load Exiting
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:Form_QueryUnload Exiting
+12/16/2002:10:23:54AM:00000037.435:DEBUG:EditForm:Form_QueryUnload(Cancel= 0,UnloadMode= 4
+12/16/2002:10:23:56AM:00000037.436:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:23:56AM:00000037.436:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:23:56AM:00000037.436:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:23:56AM:00000037.436:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:23:56AM:00000037.436:DEBUG:EditForm:Form_QueryUnload Exiting
+12/16/2002:10:23:56AM:00000037.436:DEBUG:MainForm:FileMenu_Click Exiting

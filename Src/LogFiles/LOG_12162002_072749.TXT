@@ -1,0 +1,3 @@
+12/16/2002:07:27:49AM:00000026.870:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12162002_072749.TXT)
+12/16/2002:07:28:08AM:00000026.889:ERROR:Error (13)(0) In Procedure (DosDiskManager:ToolBar_ButtonClick) source (SDM) description (Type mismatch).
+12/16/2002:07:28:10AM:00000026.891:ERROR:Error (13)(0) In Procedure (DosDiskManager:ToolBar_ButtonClick) source (SDM) description (Type mismatch).

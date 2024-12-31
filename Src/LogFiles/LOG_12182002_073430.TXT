@@ -1,0 +1,361 @@
+12/18/2002:07:34:30AM:00000027.271:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12182002_073430.TXT)
+12/18/2002:07:34:32AM:00000027.272:DEBUG:MainForm:Form_QueryUnload Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:Form_Load()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:RangeOptionAll_Click()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:RangeOptionAll_Click Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:CriteriaOptionAll_Click()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:CriteriaOptionAll_Click Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:MethodOPtionValue_Click()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:MethodOptionValue_Click Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:ReplaceForm:Form_Load Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:Loading MainForm
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:Form_Load()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:AddFileInfo()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:AddFileInfo Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:AddPackages()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:GetPackageLabels()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:GetPackageLabels Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:AddPackages Exiting
+12/18/2002:07:34:33AM:00000027.274:DEBUG:EditForm:AddFrames()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:EditForm:AddFrames Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:EditForm:GetAlaCarteLabels()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:EditForm:GetAlaCarteLabels Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:EditForm:Form_Load Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:34AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified()
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceAsSpecified Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ReplaceValues Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:ToolBar_ButtonClick Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:ReplaceForm:DoReplace Exiting
+12/18/2002:07:34:35AM:00000027.275:DEBUG:MainForm:EditMenu_Click Exiting
+12/18/2002:07:34:37AM:00000027.278:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/18/2002:07:34:37AM:00000027.278:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/18/2002:07:34:38AM:00000027.279:DEBUG:MainForm:FileMenu_Click(Index= 14)
+12/18/2002:07:34:40AM:00000027.280:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/18/2002:07:34:40AM:00000027.280:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/18/2002:07:34:40AM:00000027.280:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/18/2002:07:34:40AM:00000027.280:DEBUG:EditForm:FrameSpread_LeaveCell Exiting

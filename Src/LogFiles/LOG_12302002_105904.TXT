@@ -1,0 +1,9 @@
+12/30/2002:10:59:04AM:00000039.545:INFOR:Created log file (C:\Dev\SDM9\Source\LogFiles\LOG_12302002_105904.TXT)
+12/30/2002:10:59:05AM:00000039.545:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 1
+12/30/2002:10:59:05AM:00000039.545:DEBUG:MainForm:Form_QueryUnload Exiting
+12/30/2002:10:59:06AM:00000039.546:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol=-1,NewRow=-1,false
+12/30/2002:10:59:06AM:00000039.546:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol=-1,NewRow=-1,false
+12/30/2002:10:59:06AM:00000039.546:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:10:59:06AM:00000039.546:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:10:59:06AM:00000039.546:DEBUG:Loading MainForm
+12/30/2002:10:59:06AM:00000039.546:DEBUG:MainForm:FileMenu_Click Exiting

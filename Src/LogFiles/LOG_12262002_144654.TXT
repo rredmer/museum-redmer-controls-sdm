@@ -1,0 +1,3 @@
+12/26/2002:02:46:54PM:00000053.214:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12262002_144654.TXT)
+12/26/2002:02:46:57PM:00000053.218:DEBUG:DosDiskManager:Setup()
+12/26/2002:02:46:57PM:00000053.218:DEBUG:DosDiskManager:Setup Exiting

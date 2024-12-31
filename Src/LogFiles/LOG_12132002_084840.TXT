@@ -1,0 +1,2 @@
+12/13/2002:08:48:40AM:00000031.720:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12132002_084840.TXT)
+12/13/2002:08:48:41AM:00000031.722:ERROR:Loading MainForm

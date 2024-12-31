@@ -1,0 +1,93 @@
+12/17/2002:11:59:42AM:00000043.183:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12172002_115942.TXT)
+12/17/2002:11:59:45AM:00000043.185:DEBUG:DosDiskManager:Setup()
+12/17/2002:11:59:45AM:00000043.185:DEBUG:DosDiskManager:Setup Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:Form_Load()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:RangeOptionAll_Click()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:RangeOptionAll_Click Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:CriteriaOptionAll_Click()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:CriteriaOptionAll_Click Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:MethodOPtionValue_Click()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:MethodOptionValue_Click Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:ReplaceForm:Form_Load Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:Setup()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:FileList_Click
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:FileList_Click Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:CreateLensFile Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:Loading MainForm
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:Setup()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:FileList_Click()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:FileList_Click Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:Setup Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:Form_Load()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:AddFileInfo()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:AddFileInfo Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:AddPackages()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:GetPackageLabels()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=1)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 11x14
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=2)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 8x10
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=3)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 5x7
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=4)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 3.5x5
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=5)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = WALLT
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=6)
+12/17/2002:11:59:45AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = SUBWLT
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:GetPackageLabels Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:AddPackages Exiting
+12/17/2002:11:59:45AM:00000043.186:DEBUG:EditForm:AddFrames()
+12/17/2002:11:59:46AM:00000043.186:DEBUG:EditForm:AddFrames Exiting
+12/17/2002:11:59:46AM:00000043.186:DEBUG:EditForm:GetAlaCarteLabels()
+12/17/2002:11:59:46AM:00000043.186:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/17/2002:11:59:46AM:00000043.186:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=1)
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 11x14
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=2)
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 8x10
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText(LensNumber=3)
+12/17/2002:11:59:46AM:00000043.186:DEBUG:LensDrawerSetup:GetLensText Exiting = 5x7
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText(LensNumber=4)
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText Exiting = 3.5x5
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText(LensNumber=5)
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText Exiting = WALLT
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText(LensNumber=6)
+12/17/2002:11:59:46AM:00000043.187:DEBUG:LensDrawerSetup:GetLensText Exiting = SUBWLT
+12/17/2002:11:59:46AM:00000043.187:DEBUG:EditForm:GetAlaCarteLabels Exiting
+12/17/2002:11:59:46AM:00000043.187:DEBUG:EditForm:Form_Load Exiting
+12/17/2002:11:59:46AM:00000043.187:DEBUG:MainForm:UpdateMenus()
+12/17/2002:11:59:46AM:00000043.187:DEBUG:MainForm:UpdateMenus Exiting
+12/17/2002:11:59:51AM:00000043.191:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:11:59:51AM:00000043.191:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:23PM:00000043.224:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:00:23PM:00000043.224:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:36PM:00000043.237:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol= 1,NewRow= 2,false
+12/17/2002:12:00:36PM:00000043.237:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:38PM:00000043.239:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol= 1,NewRow= 3,false
+12/17/2002:12:00:38PM:00000043.239:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:41PM:00000043.242:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 3,NewCol= 1,NewRow= 4,false
+12/17/2002:12:00:41PM:00000043.242:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:46PM:00000043.247:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 4,NewCol= 1,NewRow= 3,false
+12/17/2002:12:00:46PM:00000043.247:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:47PM:00000043.248:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 3,NewCol= 1,NewRow= 2,false
+12/17/2002:12:00:47PM:00000043.248:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:00:48PM:00000043.249:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol= 1,NewRow= 1,false
+12/17/2002:12:00:48PM:00000043.249:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:01:49PM:00000043.309:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:01:49PM:00000043.309:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:10:58PM:00000043.859:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:10:58PM:00000043.859:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:11:12PM:00000043.873:DEBUG:MainForm:FileMenu_Click(Index= 9)
+12/17/2002:12:11:12PM:00000043.873:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:11:12PM:00000043.873:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:11:14PM:00000043.875:DEBUG:MainForm:FileMenu_Click Exiting
+12/17/2002:12:11:17PM:00000043.878:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:11:17PM:00000043.878:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/17/2002:12:11:17PM:00000043.878:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:11:17PM:00000043.878:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/17/2002:12:11:17PM:00000043.878:DEBUG:MainForm:UpdateMenus()
+12/17/2002:12:11:17PM:00000043.878:DEBUG:MainForm:UpdateMenus Exiting
+12/17/2002:12:11:20PM:00000043.880:DEBUG:MainForm:FileMenu_Click(Index= 14)

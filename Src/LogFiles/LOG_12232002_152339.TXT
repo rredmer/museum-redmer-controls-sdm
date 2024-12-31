@@ -1,0 +1,2 @@
+12/23/2002:03:23:39PM:00000055.419:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12232002_152339.TXT)
+12/23/2002:03:23:41PM:00000055.421:DEBUG:MainForm:Form_QueryUnload Exiting

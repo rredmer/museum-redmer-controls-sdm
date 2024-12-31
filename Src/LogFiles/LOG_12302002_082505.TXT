@@ -1,0 +1,17 @@
+12/30/2002:08:25:05AM:00000030.305:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12302002_082505.TXT)
+12/30/2002:08:25:08AM:00000030.309:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 1
+12/30/2002:08:25:10AM:00000030.311:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:10AM:00000030.311:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:10AM:00000030.311:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:08:25:10AM:00000030.311:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:08:25:10AM:00000030.311:DEBUG:MainForm:Form_QueryUnload Exiting
+12/30/2002:08:25:11AM:00000030.312:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:11AM:00000030.312:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:11AM:00000030.312:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:08:25:11AM:00000030.312:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:08:25:11AM:00000030.312:DEBUG:MainForm:FileMenu_Click Exiting
+12/30/2002:08:25:15AM:00000030.315:DEBUG:MainForm:FileMenu_Click(Index= 14)
+12/30/2002:08:25:16AM:00000030.317:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:16AM:00000030.317:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/30/2002:08:25:16AM:00000030.317:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/30/2002:08:25:16AM:00000030.317:DEBUG:EditForm:FrameSpread_LeaveCell Exiting

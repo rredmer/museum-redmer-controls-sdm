@@ -1,0 +1,2 @@
+12/13/2002:10:02:38AM:00000036.159:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12132002_100238.TXT)
+12/13/2002:10:13:59AM:00000036.839:ERROR:Error (91)(0) In Procedure (UnloadEditForm) source (SDM) description (Object variable or With block variable not set).

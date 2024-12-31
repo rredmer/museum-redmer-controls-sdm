@@ -1,0 +1,285 @@
+12/16/2002:02:49:11PM:00000053.351:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12162002_144911.TXT)
+12/16/2002:02:49:13PM:00000053.353:DEBUG:DosDiskManager:Setup()
+12/16/2002:02:49:13PM:00000053.353:DEBUG:DosDiskManager:Setup Exiting
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:Form_Load()
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:RangeOptionAll_Click()
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:RangeOptionAll_Click Exiting
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:CriteriaOptionAll_Click()
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:CriteriaOptionAll_Click Exiting
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:MethodOPtionValue_Click()
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:MethodOptionValue_Click Exiting
+12/16/2002:02:49:13PM:00000053.354:DEBUG:ReplaceForm:Form_Load Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:Setup()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:FileList_Click
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:FileList_Click Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:CreateLensFile Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:Loading MainForm
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:Setup()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:FileList_Click()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:FileList_Click Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:Setup Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:Form_Load()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:AddFileInfo()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:AddFileInfo Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:AddPackages()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:GetPackageLabels()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=1)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = 11x14
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=2)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = 8x10
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=3)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = 5x7
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=4)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = 3.5x5
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=5)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = WALLT
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText(LensNumber=6)
+12/16/2002:02:49:14PM:00000053.354:DEBUG:LensDrawerSetup:GetLensText Exiting = SUBWLT
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:GetPackageLabels Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:AddPackages Exiting
+12/16/2002:02:49:14PM:00000053.354:DEBUG:EditForm:AddFrames()
+12/16/2002:02:49:15PM:00000053.355:DEBUG:EditForm:AddFrames Exiting
+12/16/2002:02:49:15PM:00000053.355:DEBUG:EditForm:GetAlaCarteLabels()
+12/16/2002:02:49:15PM:00000053.355:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:02:49:15PM:00000053.355:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=1)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = 11x14
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=2)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = 8x10
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=3)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = 5x7
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=4)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = 3.5x5
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=5)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = WALLT
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText(LensNumber=6)
+12/16/2002:02:49:15PM:00000053.355:DEBUG:LensDrawerSetup:GetLensText Exiting = SUBWLT
+12/16/2002:02:49:15PM:00000053.355:DEBUG:EditForm:GetAlaCarteLabels Exiting
+12/16/2002:02:49:15PM:00000053.355:DEBUG:EditForm:Form_Load Exiting
+12/16/2002:02:49:15PM:00000053.355:DEBUG:MainForm:UpdateMenus()
+12/16/2002:02:49:15PM:00000053.355:DEBUG:MainForm:UpdateMenus Exiting
+12/16/2002:02:49:23PM:00000053.363:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:02:49:23PM:00000053.363:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:25PM:00000053.366:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:02:49:25PM:00000053.366:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:39PM:00000053.379:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol= 1,NewRow= 2,false
+12/16/2002:02:49:39PM:00000053.379:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:41PM:00000053.382:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol= 1,NewRow= 3,false
+12/16/2002:02:49:41PM:00000053.382:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:43PM:00000053.384:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 3,NewCol= 1,NewRow= 4,false
+12/16/2002:02:49:43PM:00000053.384:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:45PM:00000053.385:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 4,NewCol= 1,NewRow= 5,false
+12/16/2002:02:49:45PM:00000053.385:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:49:49PM:00000053.389:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 5,NewCol= 1,NewRow= 6,false
+12/16/2002:02:49:49PM:00000053.389:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:00PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 5,NewCol= 1,NewRow= 4,false
+12/16/2002:02:50:00PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:01PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 4,NewCol= 2,NewRow= 4,false
+12/16/2002:02:50:01PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:01PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 4,NewCol= 3,NewRow= 4,false
+12/16/2002:02:50:01PM:00000053.401:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:01PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 4,NewCol= 3,NewRow= 3,false
+12/16/2002:02:50:01PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 3,NewCol= 3,NewRow= 2,false
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 2,NewCol= 2,NewRow= 2,false
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 2,NewCol= 1,NewRow= 2,false
+12/16/2002:02:50:02PM:00000053.402:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:02PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 2,NewCol= 1,NewRow= 1,false
+12/16/2002:02:50:02PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:03PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol= 2,NewRow= 1,false
+12/16/2002:02:50:03PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:03PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 1,NewCol= 3,NewRow= 1,false
+12/16/2002:02:50:03PM:00000053.403:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:03PM:00000053.404:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 1,NewCol= 2,NewRow= 1,false
+12/16/2002:02:50:03PM:00000053.404:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:05PM:00000053.405:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 1,NewCol= 2,NewRow= 2,false
+12/16/2002:02:50:05PM:00000053.405:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:08PM:00000053.408:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 1,NewCol= 2,NewRow= 2,false
+12/16/2002:02:50:08PM:00000053.408:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:11PM:00000053.412:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 2,NewCol= 2,NewRow= 3,false
+12/16/2002:02:50:11PM:00000053.412:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:12PM:00000053.413:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 3,NewCol= 2,NewRow= 4,false
+12/16/2002:02:50:12PM:00000053.413:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:16PM:00000053.416:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 4,NewCol= 2,NewRow= 5,false
+12/16/2002:02:50:16PM:00000053.416:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:18PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 2,Row= 5,NewCol= 3,NewRow= 5,false
+12/16/2002:02:50:18PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:19PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 5,NewCol= 3,NewRow= 4,false
+12/16/2002:02:50:19PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:19PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 4,NewCol= 3,NewRow= 3,false
+12/16/2002:02:50:19PM:00000053.419:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:19PM:00000053.420:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 3,NewCol= 3,NewRow= 2,false
+12/16/2002:02:50:19PM:00000053.420:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:19PM:00000053.420:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 2,NewCol= 3,NewRow= 1,false
+12/16/2002:02:50:19PM:00000053.420:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:21PM:00000053.422:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 1,NewCol= 3,NewRow= 2,false
+12/16/2002:02:50:21PM:00000053.422:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:26PM:00000053.426:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 1,NewCol= 2,NewRow= 1,false
+12/16/2002:02:50:26PM:00000053.426:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:27PM:00000053.428:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 1,NewCol= 3,NewRow= 2,false
+12/16/2002:02:50:27PM:00000053.428:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:30PM:00000053.430:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 2,NewCol= 3,NewRow= 3,false
+12/16/2002:02:50:30PM:00000053.430:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:32PM:00000053.432:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 3,NewCol= 3,NewRow= 4,false
+12/16/2002:02:50:32PM:00000053.432:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:33PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 3,Row= 4,NewCol= 4,NewRow= 4,false
+12/16/2002:02:50:33PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:34PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 4,NewCol= 4,NewRow= 3,false
+12/16/2002:02:50:34PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:34PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 3,NewCol= 4,NewRow= 2,false
+12/16/2002:02:50:34PM:00000053.434:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:34PM:00000053.435:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 2,NewCol= 4,NewRow= 1,false
+12/16/2002:02:50:34PM:00000053.435:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:38PM:00000053.438:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 1,NewCol= 4,NewRow= 2,false
+12/16/2002:02:50:38PM:00000053.438:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:38PM:00000053.439:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 2,NewCol= 4,NewRow= 1,false
+12/16/2002:02:50:38PM:00000053.439:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:40PM:00000053.440:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 1,NewCol= 4,NewRow= 2,false
+12/16/2002:02:50:40PM:00000053.440:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:42PM:00000053.442:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 4,Row= 2,NewCol= 5,NewRow= 1,false
+12/16/2002:02:50:42PM:00000053.442:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:42PM:00000053.443:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 5,Row= 1,NewCol= 6,NewRow= 1,false
+12/16/2002:02:50:42PM:00000053.443:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:43PM:00000053.443:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 6,Row= 1,NewCol= 5,NewRow= 1,false
+12/16/2002:02:50:43PM:00000053.443:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:44PM:00000053.444:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 5,Row= 1,NewCol= 5,NewRow= 2,false
+12/16/2002:02:50:44PM:00000053.444:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:44PM:00000053.445:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 5,Row= 2,NewCol= 5,NewRow= 3,false
+12/16/2002:02:50:44PM:00000053.445:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:45PM:00000053.445:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 5,Row= 3,NewCol= 5,NewRow= 2,false
+12/16/2002:02:50:45PM:00000053.445:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:47PM:00000053.447:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 5,Row= 2,NewCol= 6,NewRow= 1,false
+12/16/2002:02:50:47PM:00000053.447:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:48PM:00000053.449:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 6,Row= 1,NewCol= 6,NewRow= 2,false
+12/16/2002:02:50:48PM:00000053.449:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:53PM:00000053.453:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 6,Row= 2,NewCol= 7,NewRow= 1,false
+12/16/2002:02:50:53PM:00000053.453:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:54PM:00000053.454:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 7,Row= 1,NewCol= 7,NewRow= 2,false
+12/16/2002:02:50:54PM:00000053.454:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:55PM:00000053.456:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 7,Row= 2,NewCol= 8,NewRow= 1,false
+12/16/2002:02:50:55PM:00000053.456:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:57PM:00000053.457:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 8,Row= 1,NewCol= 8,NewRow= 2,false
+12/16/2002:02:50:57PM:00000053.457:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:50:58PM:00000053.458:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 8,Row= 2,NewCol= 9,NewRow= 1,false
+12/16/2002:02:50:58PM:00000053.458:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:00PM:00000053.460:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 9,Row= 1,NewCol= 9,NewRow= 2,false
+12/16/2002:02:51:00PM:00000053.460:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:01PM:00000053.461:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 9,Row= 2,NewCol= 10,NewRow= 1,false
+12/16/2002:02:51:01PM:00000053.461:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:01PM:00000053.462:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 10,Row= 1,NewCol= 10,NewRow= 2,false
+12/16/2002:02:51:01PM:00000053.462:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:02PM:00000053.463:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 10,Row= 2,NewCol= 11,NewRow= 1,false
+12/16/2002:02:51:02PM:00000053.463:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:03PM:00000053.463:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 11,Row= 1,NewCol= 11,NewRow= 2,false
+12/16/2002:02:51:03PM:00000053.463:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:09PM:00000053.469:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 11,Row= 2,NewCol= 12,NewRow= 1,false
+12/16/2002:02:51:09PM:00000053.469:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:10PM:00000053.470:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 12,Row= 1,NewCol= 12,NewRow= 2,false
+12/16/2002:02:51:10PM:00000053.470:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:11PM:00000053.471:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 12,Row= 2,NewCol= 12,NewRow= 3,false
+12/16/2002:02:51:11PM:00000053.471:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:12PM:00000053.472:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 12,Row= 3,NewCol= 13,NewRow= 1,false
+12/16/2002:02:51:12PM:00000053.472:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:13PM:00000053.474:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 13,Row= 1,NewCol= 13,NewRow= 2,false
+12/16/2002:02:51:13PM:00000053.474:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:14PM:00000053.474:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 13,Row= 2,NewCol= 14,NewRow= 1,false
+12/16/2002:02:51:14PM:00000053.474:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:15PM:00000053.475:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 14,Row= 1,NewCol= 14,NewRow= 2,false
+12/16/2002:02:51:15PM:00000053.475:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:16PM:00000053.476:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 14,Row= 2,NewCol= 15,NewRow= 1,false
+12/16/2002:02:51:16PM:00000053.476:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:17PM:00000053.477:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 15,Row= 1,NewCol= 15,NewRow= 2,false
+12/16/2002:02:51:17PM:00000053.477:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:20PM:00000053.481:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 15,Row= 2,NewCol= 16,NewRow= 1,false
+12/16/2002:02:51:20PM:00000053.481:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:21PM:00000053.481:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 16,Row= 1,NewCol= 16,NewRow= 2,false
+12/16/2002:02:51:21PM:00000053.481:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:21PM:00000053.482:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 16,Row= 2,NewCol= 17,NewRow= 1,false
+12/16/2002:02:51:21PM:00000053.482:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:22PM:00000053.483:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 17,Row= 1,NewCol= 17,NewRow= 2,false
+12/16/2002:02:51:22PM:00000053.483:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:23PM:00000053.483:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 17,Row= 2,NewCol= 18,NewRow= 1,false
+12/16/2002:02:51:23PM:00000053.483:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:24PM:00000053.484:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 18,Row= 1,NewCol= 18,NewRow= 3,false
+12/16/2002:02:51:24PM:00000053.484:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:24PM:00000053.485:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 18,Row= 3,NewCol= 18,NewRow= 2,false
+12/16/2002:02:51:24PM:00000053.485:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:25PM:00000053.486:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 18,Row= 2,NewCol= 18,NewRow= 3,false
+12/16/2002:02:51:25PM:00000053.486:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:27PM:00000053.487:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 18,Row= 3,NewCol= 19,NewRow= 1,false
+12/16/2002:02:51:27PM:00000053.487:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:28PM:00000053.488:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 19,Row= 1,NewCol= 19,NewRow= 2,false
+12/16/2002:02:51:28PM:00000053.488:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:29PM:00000053.489:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 19,Row= 2,NewCol= 19,NewRow= 3,false
+12/16/2002:02:51:29PM:00000053.489:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:30PM:00000053.491:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 19,Row= 3,NewCol= 20,NewRow= 1,false
+12/16/2002:02:51:30PM:00000053.491:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:31PM:00000053.491:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 20,Row= 1,NewCol= 20,NewRow= 2,false
+12/16/2002:02:51:31PM:00000053.491:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:32PM:00000053.492:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 20,Row= 2,NewCol= 20,NewRow= 3,false
+12/16/2002:02:51:32PM:00000053.492:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:33PM:00000053.494:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 20,Row= 3,NewCol= 21,NewRow= 1,false
+12/16/2002:02:51:33PM:00000053.494:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:34PM:00000053.495:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 21,Row= 1,NewCol= 21,NewRow= 2,false
+12/16/2002:02:51:34PM:00000053.495:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:35PM:00000053.496:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 21,Row= 2,NewCol= 21,NewRow= 3,false
+12/16/2002:02:51:35PM:00000053.496:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:39PM:00000053.500:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 21,Row= 3,NewCol= 22,NewRow= 1,false
+12/16/2002:02:51:39PM:00000053.500:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:40PM:00000053.501:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 22,Row= 1,NewCol= 22,NewRow= 2,false
+12/16/2002:02:51:40PM:00000053.501:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:41PM:00000053.501:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 22,Row= 2,NewCol= 22,NewRow= 3,false
+12/16/2002:02:51:41PM:00000053.501:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:42PM:00000053.503:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 22,Row= 3,NewCol= 23,NewRow= 1,false
+12/16/2002:02:51:42PM:00000053.503:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:44PM:00000053.504:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 23,Row= 1,NewCol= 23,NewRow= 2,false
+12/16/2002:02:51:44PM:00000053.504:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:45PM:00000053.506:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 23,Row= 2,NewCol= 24,NewRow= 1,false
+12/16/2002:02:51:45PM:00000053.506:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:46PM:00000053.507:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 24,Row= 1,NewCol= 24,NewRow= 2,false
+12/16/2002:02:51:46PM:00000053.507:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:51PM:00000053.512:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 24,Row= 2,NewCol= 25,NewRow= 1,false
+12/16/2002:02:51:51PM:00000053.512:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:52PM:00000053.513:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 25,Row= 1,NewCol= 25,NewRow= 2,false
+12/16/2002:02:51:52PM:00000053.513:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:54PM:00000053.514:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 25,Row= 2,NewCol= 26,NewRow= 1,false
+12/16/2002:02:51:54PM:00000053.514:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:55PM:00000053.515:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 26,Row= 1,NewCol= 26,NewRow= 2,false
+12/16/2002:02:51:55PM:00000053.515:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:56PM:00000053.516:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 26,Row= 2,NewCol= 27,NewRow= 1,false
+12/16/2002:02:51:56PM:00000053.516:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:51:59PM:00000053.520:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 27,Row= 1,NewCol= 27,NewRow= 2,false
+12/16/2002:02:51:59PM:00000053.520:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:00PM:00000053.521:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 27,Row= 2,NewCol= 28,NewRow= 1,false
+12/16/2002:02:52:00PM:00000053.521:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:06PM:00000053.527:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 1,NewCol= 28,NewRow= 4,false
+12/16/2002:02:52:06PM:00000053.527:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:07PM:00000053.528:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 4,NewCol= 28,NewRow= 1,false
+12/16/2002:02:52:07PM:00000053.528:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:14PM:00000053.535:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 1,NewCol= 28,NewRow= 2,false
+12/16/2002:02:52:14PM:00000053.535:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:16PM:00000053.536:DEBUG:MainForm:EditMenu_Click(Index= 1)
+12/16/2002:02:52:16PM:00000053.536:DEBUG:MainForm:EditMenu_Click Exiting
+12/16/2002:02:52:19PM:00000053.539:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 2,NewCol= 28,NewRow= 3,false
+12/16/2002:02:52:19PM:00000053.539:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:21PM:00000053.541:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 3,NewCol= 28,NewRow= 4,false
+12/16/2002:02:52:21PM:00000053.541:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:22PM:00000053.542:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 4,NewCol= 28,NewRow= 2,false
+12/16/2002:02:52:22PM:00000053.542:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:27PM:00000053.547:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 28,Row= 2,NewCol=-1,NewRow=-1,false
+12/16/2002:02:52:27PM:00000053.547:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:02:52:48PM:00000053.569:DEBUG:MainForm:FileMenu_Click(Index= 5)
+12/16/2002:02:52:48PM:00000053.569:DEBUG:MainForm:SaveAsShooterFile()
+12/16/2002:02:53:12PM:00000053.592:DEBUG:MainForm:SaveShooterFile()
+12/16/2002:02:53:16PM:00000053.596:DEBUG:MainForm:SaveShooterFile Exiting
+12/16/2002:02:53:16PM:00000053.596:DEBUG:MainForm:SaveAsShooterFile Exiting
+12/16/2002:02:53:16PM:00000053.596:DEBUG:MainForm:FileMenu_Click Exiting
+12/16/2002:02:53:19PM:00000053.600:DEBUG:MainForm:UpdateMenus()
+12/16/2002:02:53:19PM:00000053.600:DEBUG:MainForm:UpdateMenus Exiting
+12/16/2002:03:22:50PM:00000055.371:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 0
+12/16/2002:03:22:52PM:00000055.372:DEBUG:MainForm:Form_QueryUnload Exiting
+12/16/2002:03:22:54PM:00000055.375:DEBUG:MainForm:FileMenu_Click(Index= 14)

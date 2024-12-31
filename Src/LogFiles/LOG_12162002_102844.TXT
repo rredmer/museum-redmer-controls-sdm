@@ -1,0 +1,73 @@
+12/16/2002:10:28:44AM:00000037.725:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12162002_102844.TXT)
+12/16/2002:10:28:46AM:00000037.727:DEBUG:DosDiskManager:Setup()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:DosDiskManager:Setup Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:Form_Load()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:RangeOptionAll_Click()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:RangeOptionAll_Click Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:CriteriaOptionAll_Click()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:CriteriaOptionAll_Click Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:MethodOPtionValue_Click()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:MethodOptionValue_Click Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:ReplaceForm:Form_Load Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:LensDrawerSetup:Setup()
+12/16/2002:10:28:46AM:00000037.727:DEBUG:LensDrawerSetup:FileList_Click
+12/16/2002:10:28:46AM:00000037.727:DEBUG:LensDrawerSetup:FileList_Click Exiting
+12/16/2002:10:28:46AM:00000037.727:DEBUG:LensDrawerSetup:CreateLensFile Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:Loading MainForm
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:Setup()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:FileList_Click()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:FileList_Click Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:Setup Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:Form_Load()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:AddFileInfo()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:AddFileInfo Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:AddPackages()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:GetPackageLabels()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 1)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 2)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 3)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 4)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 5)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 6)
+12/16/2002:10:28:47AM:00000037.727:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:GetPackageLabels Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:AddPackages Exiting
+12/16/2002:10:28:47AM:00000037.727:DEBUG:EditForm:AddFrames()
+12/16/2002:10:28:47AM:00000037.728:DEBUG:EditForm:AddFrames Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:EditForm:GetAlaCarteLabels()
+12/16/2002:10:28:47AM:00000037.728:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:28:47AM:00000037.728:DEBUG:PhotoPrinterSetup:GetNumberOfLenses()
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 1)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 2)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 3)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 4)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 5)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText(LensNumber= 6)
+12/16/2002:10:28:47AM:00000037.728:DEBUG:LensDrawerSetup:GetLensText Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:EditForm:GetAlaCarteLabels Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:EditForm:Form_Load Exiting
+12/16/2002:10:28:47AM:00000037.728:DEBUG:MainForm:UpdateMenus()
+12/16/2002:10:28:48AM:00000037.728:DEBUG:MainForm:UpdateMenus Exiting
+12/16/2002:10:28:51AM:00000037.731:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:28:51AM:00000037.731:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:28:52AM:00000037.732:DEBUG:MainForm:WindowMenu_Click(Index= 4)
+12/16/2002:10:28:52AM:00000037.732:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:28:52AM:00000037.732:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:29:44AM:00000037.784:DEBUG:MainForm:WindowMenu_Click Exiting
+12/16/2002:10:29:45AM:00000037.786:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 0
+12/16/2002:10:29:47AM:00000037.787:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:29:47AM:00000037.787:DEBUG:EditForm:FrameSpread_LeaveCell(Col= 1,Row= 1,NewCol=-1,NewRow=-1,false
+12/16/2002:10:29:47AM:00000037.787:DEBUG:EditForm:FrameSpread_LeaveCell Exiting
+12/16/2002:10:29:47AM:00000037.787:DEBUG:EditForm:FrameSpread_LeaveCell Exiting

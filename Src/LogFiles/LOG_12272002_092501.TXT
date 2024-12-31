@@ -1,0 +1,7 @@
+12/27/2002:09:25:01AM:00000033.902:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12272002_092501.TXT)
+12/27/2002:09:25:04AM:00000033.905:DEBUG:MainForm:Form_QueryUnload(Cancel= 0,UnloadMode= 1
+12/27/2002:09:25:04AM:00000033.905:DEBUG:MainForm:Form_QueryUnload Exiting
+12/27/2002:09:25:09AM:00000033.909:DEBUG:MainForm:UpdateMenus()
+12/27/2002:09:25:09AM:00000033.909:DEBUG:MainForm:UpdateMenus Exiting
+12/27/2002:09:25:09AM:00000033.909:DEBUG:Loading MainForm
+12/27/2002:09:25:09AM:00000033.909:DEBUG:MainForm:FileMenu_Click Exiting

@@ -1,0 +1,17 @@
+Job #: 0
+Control #: 0
+Frames edited : 0
+Frame printed: 0
+Frames not printed: 0
+Frames to be reprinted: 0
+Frames printed twice: 0
+Reprints for quantity: 0
+         for Y-axis: 0
+         for color: 0
+         for dirt: 0
+Frames damaged: 0
+Total blinks: 0
+Total slaters: 0
+Total No Package: 0
+Slates printed: 0
+Pacers printed: 0

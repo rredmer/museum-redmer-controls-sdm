@@ -1,0 +1,5 @@
+12/19/2002:10:23:36AM:00000037.417:INFOR:Created log file (C:\Documents and Settings\Redmer\Desktop\ISA\SDM9\Source\LogFiles\LOG_12192002_102336.TXT)
+12/19/2002:10:23:38AM:00000037.419:DEBUG:MainForm:FileMenu_Click Exiting
+12/19/2002:10:23:38AM:00000037.419:DEBUG:MainForm:Form_QueryUnload Exiting
+12/19/2002:10:23:38AM:00000037.419:DEBUG:Loading MainForm
+12/19/2002:10:23:38AM:00000037.419:DEBUG:MainForm:FileMenu_Click Exiting
